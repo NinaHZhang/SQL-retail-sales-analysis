@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Retail Sales Analysis SQL Project
 
+(USED NAJIRH'S DATABASE FOR THIS PROJECT)
+
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
